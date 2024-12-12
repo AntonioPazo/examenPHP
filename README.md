@@ -3,7 +3,7 @@
 ##Video
 
 <video width="640" height="360" controls>
-  <source src="./Proyecto Pasterería.mp4.mp4" type="video/mp4">
+  <source src="./Proyecto Pasterería.mp4" type="video/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
 
