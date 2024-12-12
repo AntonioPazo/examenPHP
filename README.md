@@ -2,7 +2,10 @@
 
 ##Video
 
+<iframe width="560" height="315" src="https://www.youtu.be/-vMb2US0Yog/<VIDEO_ID>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://youtu.be/-vMb2US0Yog
+
 
 <video width="640" height="360" controls>
   <source src="ProyectoPastereria.mp4" type="video/mp4">
