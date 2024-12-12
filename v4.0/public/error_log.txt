@@ -1,0 +1,20 @@
+[2024-12-12 22:08:25] Error en procesar_pago.php: Datos recibidos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Chocolate
+            [precio] => 2.42
+            [cantidad] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [nombre] => Bollo
+            [precio] => 1.21
+            [cantidad] => 1
+        )
+
+)
+
